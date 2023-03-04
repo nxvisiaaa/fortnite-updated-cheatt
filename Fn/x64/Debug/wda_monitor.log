@@ -1,0 +1,953 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(96,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(96,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(96,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(136,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(137,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(138,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(140,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(141,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(142,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(144,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(145,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(146,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(147,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(148,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(149,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(151,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(152,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(153,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(154,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(156,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(157,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(158,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(159,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(161,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(162,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(163,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(164,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(205,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2549,1): message : see previous definition of 'STATUS_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(223,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2550,1): message : see previous definition of 'STATUS_ABANDONED_WAIT_0'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(246,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2551,1): message : see previous definition of 'STATUS_USER_APC'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(282,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2552,1): message : see previous definition of 'STATUS_TIMEOUT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(291,1): warning C4005: 'STATUS_PENDING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2553,1): message : see previous definition of 'STATUS_PENDING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(738,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2554,1): message : see previous definition of 'DBG_EXCEPTION_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(747,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2555,1): message : see previous definition of 'DBG_CONTINUE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(822,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2556,1): message : see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(985,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2557,1): message : see previous definition of 'STATUS_FATAL_APP_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1323,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2558,1): message : see previous definition of 'DBG_REPLY_LATER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1341,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2559,1): message : see previous definition of 'DBG_TERMINATE_THREAD'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1350,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2560,1): message : see previous definition of 'DBG_TERMINATE_PROCESS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1359,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2561,1): message : see previous definition of 'DBG_CONTROL_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1368,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2562,1): message : see previous definition of 'DBG_PRINTEXCEPTION_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1377,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2563,1): message : see previous definition of 'DBG_RIPEXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1386,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2564,1): message : see previous definition of 'DBG_CONTROL_BREAK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1395,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2565,1): message : see previous definition of 'DBG_COMMAND_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1404,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2566,1): message : see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1436,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2567,1): message : see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1447,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2568,1): message : see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1458,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2569,1): message : see previous definition of 'STATUS_BREAKPOINT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1469,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2570,1): message : see previous definition of 'STATUS_SINGLE_STEP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1772,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2571,1): message : see previous definition of 'STATUS_LONGJUMP'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1799,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2572,1): message : see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(1914,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2573,1): message : see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2060,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2574,1): message : see previous definition of 'STATUS_ACCESS_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2069,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2575,1): message : see previous definition of 'STATUS_IN_PAGE_ERROR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2087,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2576,1): message : see previous definition of 'STATUS_INVALID_HANDLE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2132,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2577,1): message : see previous definition of 'STATUS_INVALID_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2232,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2578,1): message : see previous definition of 'STATUS_NO_MEMORY'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2289,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2579,1): message : see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2370,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2580,1): message : see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(2379,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2581,1): message : see previous definition of 'STATUS_INVALID_DISPOSITION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3312,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2582,1): message : see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3322,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2583,1): message : see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3332,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2584,1): message : see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3342,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2585,1): message : see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3352,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2586,1): message : see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3362,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2587,1): message : see previous definition of 'STATUS_FLOAT_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3372,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2588,1): message : see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3382,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2589,1): message : see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3392,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2590,1): message : see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3402,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2591,1): message : see previous definition of 'STATUS_INTEGER_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(3412,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2592,1): message : see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4358,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2593,1): message : see previous definition of 'STATUS_STACK_OVERFLOW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4875,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2594,1): message : see previous definition of 'STATUS_DLL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4904,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2595,1): message : see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4914,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2596,1): message : see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(4924,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2597,1): message : see previous definition of 'STATUS_CONTROL_C_EXIT'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5002,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2598,1): message : see previous definition of 'STATUS_DLL_INIT_FAILED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(5999,1): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2599,1): message : see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7593,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2600,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7603,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2601,1): message : see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(7735,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2602,1): message : see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8718,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2603,1): message : see previous definition of 'STATUS_HEAP_CORRUPTION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(8946,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2604,1): message : see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9073,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2605,1): message : see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(9136,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2606,1): message : see previous definition of 'STATUS_ASSERTION_FAILURE'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10045,1): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2607,1): message : see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10697,1): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2608,1): message : see previous definition of 'STATUS_INTERRUPTED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(10706,1): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2609,1): message : see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(11018,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2610,1): message : see previous definition of 'STATUS_ALREADY_REGISTERED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14865,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2612,1): message : see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\ntstatus.h(14874,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winnt.h(2613,1): message : see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(21,33): warning C4129: 'P': unrecognized character escape sequence
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(28,1): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(43,8): error C2039: 'scoped_lock': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\mutex(30,1): message : see declaration of 'std'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(43,1): error C2065: 'scoped_lock': undeclared identifier
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(43,20): error C2146: syntax error: missing ';' before identifier 'lock'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(43,20): error C2672: 'lock': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\mutex(417,6): message : could be 'void std::lock(_Lock0 &,_Lock1 &,_LockN &...)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(43,20): message : 'void std::lock(_Lock0 &,_Lock1 &,_LockN &...)': expects 3 arguments - 1 provided
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(216,45): warning C4244: 'argument': conversion from 'SIZE_T' to 'uint32_t', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(16,43): error C2011: '_KEY_VALUE_INFORMATION_CLASS': 'enum' type redefinition
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(16,14): message : see declaration of '_KEY_VALUE_INFORMATION_CLASS'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(26,44): error C2011: '_KEY_VALUE_FULL_INFORMATION': 'struct' type redefinition
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(26,16): message : see declaration of '_KEY_VALUE_FULL_INFORMATION'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(44,10): error C2766: explicit specialization; '_RTL_CONSTANT_STRING_remove_const_template_class<1>' has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(44,10): message : see previous definition of '_RTL_CONSTANT_STRING_remove_const_template_class<1>'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(45,10): error C2766: explicit specialization; '_RTL_CONSTANT_STRING_remove_const_template_class<2>' has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(45,10): message : see previous definition of '_RTL_CONSTANT_STRING_remove_const_template_class<2>'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(126,22): error C2084: function 'ULONG RegistryUtils::GetKeyInfoSize(HANDLE,PUNICODE_STRING)' already has a body
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(126,22): message : see previous definition of 'GetKeyInfoSize'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(140,21): error C2995: 'type RegistryUtils::ReadRegistry(UNICODE_STRING,UNICODE_STRING)': function template has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(140,21): message : see declaration of 'RegistryUtils::ReadRegistry'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\utils.h(182,21): error C2084: function 'bool RegistryUtils::WriteRegistry(UNICODE_STRING,UNICODE_STRING,PVOID,ULONG,ULONG)' already has a body
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver_utils.h(182,21): message : see previous definition of 'WriteRegistry'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\encrpyt.h(79,3): error C2953: 'skc::skCrypter': class template has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\encrpyt.h(10,8): message : see declaration of 'skc::skCrypter'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(11,12): error C2086: 'std::mutex isuse': redefinition
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(4,12): message : see declaration of 'isuse'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(16,1): error C2011: 'Driver': 'class' type redefinition
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(22,32): warning C4129: 'P': unrecognized character escape sequence
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(232,16): error C2374: 'driver': redefinition; multiple initialization
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(199,16): message : see declaration of 'driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(232,35): error C2027: use of undefined type 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(235,3): error C2995: 'T read(const uintptr_t)': function template has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(202,3): message : see declaration of 'read'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(242,3): error C2995: 'T write(const uintptr_t,T)': function template has already been defined
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(209,3): message : see declaration of 'write'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(247,13): error C2084: function 'std::string readwtf(uintptr_t,void *,SIZE_T)' already has a body
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(214,13): message : see previous definition of 'readwtf'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(249,8): error C2027: use of undefined type 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(256,10): error C2084: function 'uint64_t ReadChain(uint64_t,const std::vector<uint64_t,std::allocator<uint64_t>> &)' already has a body
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(223,10): message : see previous definition of 'ReadChain'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(202,3): error C3861: 'read': identifier not found
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(257,18): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint64_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(257,18): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(259,50): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.h(259,50): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(143,125): error C2568: '+': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(143,125): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(144,21): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint16_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(144,21): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(152,47): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(152,47): message : could be 'T read<char>(const uintptr_t)'
+          with
+          [
+              T=char
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(165,61): error C2568: '>>': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(165,61): message : could be 'T read<unsigned int>(const uintptr_t)'
+          with
+          [
+              T=unsigned int
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(172,29): warning C4244: '=': conversion from 'uint64_t' to 'char', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(191,125): error C2568: '+': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(191,125): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(192,40): error C2568: '<': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(192,40): message : could be 'T read<uint16_t>(const uintptr_t)'
+          with
+          [
+              T=uint16_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(195,10): error C2664: 'std::string ReadGetNameFromFName(int)': cannot convert argument 1 from 'T (__cdecl *)(uintptr_t)' to 'int'
+          with
+          [
+              T=DWORD
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(195,31): message : There is no context in which this conversion is possible
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(139,20): message : see declaration of 'ReadGetNameFromFName'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(195,10): message : while trying to match the argument list '(T (__cdecl *)(uintptr_t))'
+          with
+          [
+              T=DWORD
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(293,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(364,43): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(364,43): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(368,51): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(368,51): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(377,30): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'FTransform'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(377,30): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(389,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(390,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(391,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(416,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(417,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(418,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(440,40): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(440,40): message : could be 'T read<__int64>(const uintptr_t)'
+          with
+          [
+              T=__int64
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(441,13): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to '__int64'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(441,13): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(443,67): error C2568: '/': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(443,67): message : could be 'T read<double>(const uintptr_t)'
+          with
+          [
+              T=double
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(445,50): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(445,50): message : could be 'T read<double>(const uintptr_t)'
+          with
+          [
+              T=double
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(446,50): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(446,50): message : could be 'T read<double>(const uintptr_t)'
+          with
+          [
+              T=double
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(448,26): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint64_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(448,26): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(511,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(511,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(511,139): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(512,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(512,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(512,139): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(513,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(513,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(513,139): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(514,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(514,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(514,139): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(515,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(515,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(519,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(550,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(551,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(555,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(555,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(556,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(556,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(557,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(557,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(558,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(558,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(560,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(604,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(609,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(614,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(620,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(621,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(625,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(626,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(629,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(629,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(629,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(629,157): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(630,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(630,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(630,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(630,157): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(631,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(631,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(631,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(631,165): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(632,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(632,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(632,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(632,165): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(633,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(633,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(633,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(633,165): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(634,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(634,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(634,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(634,165): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(635,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(635,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(635,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(635,173): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(636,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(636,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(636,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(636,173): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(639,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(639,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(639,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(639,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(640,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(640,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(640,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(640,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(641,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(641,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(641,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(641,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(642,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(642,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(642,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(642,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(643,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(643,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(643,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(643,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(644,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(644,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(644,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(644,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(645,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(645,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(645,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(645,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(646,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(646,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(646,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(646,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(651,69): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(651,54): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(656,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(663,21): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(663,24): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(671,21): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(671,24): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): error C2678: binary '==': no operator found which takes a left-hand operand of type 'const std::string' (or there is no acceptable conversion)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\propkeydef.h(35,14): message : could be 'int operator ==(const PROPERTYKEY &,const PROPERTYKEY &)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\guiddef.h(192,15): message : or       'bool operator ==(const GUID &,const GUID &)'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\thread(244,24): message : or       'bool std::operator ==(std::thread::id,std::thread::id) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : or       'built-in C++ operator==(WCHAR [260], WCHAR [260])'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\xor.hpp(108,13): message : or       'auto operator ==(const _string_type &,const _Basic_XorStr<_string_type,_length> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'auto operator ==(const _string_type &,const _Basic_XorStr<_string_type,_length> &)': could not deduce template argument for 'const _Basic_XorStr<_string_type,_length> &' from 'WCHAR [260]'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\xor.hpp(100,13): message : or       'auto operator ==(const _Basic_XorStr<_string_type,_length> &,const _Basic_XorStr<_string_type,_length2> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'auto operator ==(const _Basic_XorStr<_string_type,_length> &,const _Basic_XorStr<_string_type,_length2> &)': could not deduce template argument for 'const _Basic_XorStr<_string_type,_length> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\array(771,30): message : or       'bool std::operator ==(const std::array<_Ty,_Size> &,const std::array<_Ty,_Size> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::array<_Ty,_Size> &,const std::array<_Ty,_Size> &)': could not deduce template argument for 'const std::array<_Ty,_Size> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\map(630,17): message : or       'bool std::operator ==(const std::multimap<_Kty,_Ty,_Pr,_Alloc> &,const std::multimap<_Kty,_Ty,_Pr,_Alloc> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::multimap<_Kty,_Ty,_Pr,_Alloc> &,const std::multimap<_Kty,_Ty,_Pr,_Alloc> &)': could not deduce template argument for 'const std::multimap<_Kty,_Ty,_Pr,_Alloc> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\map(399,17): message : or       'bool std::operator ==(const std::map<_Kty,_Ty,_Pr,_Alloc> &,const std::map<_Kty,_Ty,_Pr,_Alloc> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::map<_Kty,_Ty,_Pr,_Alloc> &,const std::map<_Kty,_Ty,_Pr,_Alloc> &)': could not deduce template argument for 'const std::map<_Kty,_Ty,_Pr,_Alloc> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\functional(1177,17): message : or       'bool std::operator ==(std::nullptr_t,const std::function<_Fty> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(std::nullptr_t,const std::function<_Fty> &) noexcept': could not deduce template argument for 'const std::function<_Fty> &' from 'WCHAR [260]'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\functional(1171,17): message : or       'bool std::operator ==(const std::function<_Fty> &,std::nullptr_t) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::function<_Fty> &,std::nullptr_t) noexcept': could not deduce template argument for 'const std::function<_Fty> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\tuple(672,27): message : or       'bool std::operator ==(const std::tuple<_Types...> &,const std::tuple<_Types...> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::tuple<_Types...> &,const std::tuple<_Types...> &)': could not deduce template argument for 'const std::tuple<_Types...> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\vector(2284,30): message : or       'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)': could not deduce template argument for 'const std::vector<_Ty,_Alloc> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(3523,17): message : or       'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'WCHAR [260]'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(3517,30): message : or       'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(3469,30): message : or       'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'const std::unique_ptr<_Ty,_Dx> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(1859,17): message : or       'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'WCHAR [260]'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(1848,17): message : or       'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\memory(1811,17): message : or       'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(5209,17): message : or       'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const _Elem *const ' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(5190,30): message : or       'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': template parameter '_Elem' is ambiguous
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : could be 'WCHAR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : or       'char'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': could not deduce template argument for 'const _Elem *const ' from 'WCHAR [260]'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(5184,30): message : or       'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'WCHAR [260]'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xmemory(895,30): message : or       'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': could not deduce template argument for 'const std::allocator<_Ty> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\iterator(474,17): message : or       'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': could not deduce template argument for 'const std::istreambuf_iterator<_Elem,_Traits> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\iterator(292,17): message : or       'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': could not deduce template argument for 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xutility(3578,5): message : or       'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': could not deduce template argument for 'const std::move_iterator<_Iter> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xutility(1396,5): message : or       'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': could not deduce template argument for 'const std::reverse_iterator<_BidIt> &' from 'const std::string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\utility(365,27): message : or       'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Ty1,_Ty2> &)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Ty1,_Ty2> &)': could not deduce template argument for 'const std::pair<_Ty1,_Ty2> &' from 'const std::string'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(698,8): message : while trying to match the argument list '(const std::string, WCHAR [260])'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(826,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(826,56): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(826,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(831,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(831,53): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(831,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(835,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(835,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(835,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(839,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(839,48): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(839,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(843,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(843,53): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(843,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(847,11): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(847,47): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(10057,1): message : see declaration of 'FindWindowW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(847,11): message : while trying to match the argument list '(int, char *)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,20): error C2955: 'skc::skCrypter': use of class template requires template argument list
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\encrpyt.h(10,8): message : see declaration of 'skc::skCrypter'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,20): error C2737: 'crypted': constexpr object must be initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,20): error C3536: 'crypted': cannot be used before it is initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,3): error C2664: 'BOOL SetConsoleTitleA(LPCSTR)': cannot convert argument 1 from 'int' to 'LPCSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,20): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\consoleapi2.h(474,1): message : see declaration of 'SetConsoleTitleA'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(885,3): message : while trying to match the argument list '(int)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1223,16): error C2955: 'skc::skCrypter': use of class template requires template argument list
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\encrpyt.h(10,8): message : see declaration of 'skc::skCrypter'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1223,16): error C2737: 'crypted': constexpr object must be initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1223,16): error C3536: 'crypted': cannot be used before it is initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1240,6): error C2027: use of undefined type 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1242,10): error C2027: use of undefined type 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1244,25): error C2027: use of undefined type 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(14,7): message : see declaration of 'Driver'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1258,16): error C2955: 'skc::skCrypter': use of class template requires template argument list
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\test\encrpyt.h(10,8): message : see declaration of 'skc::skCrypter'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1258,16): error C2737: 'crypted': constexpr object must be initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1258,16): error C3536: 'crypted': cannot be used before it is initialized
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1314,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1315,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1316,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1316,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1316,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1316,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1317,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1317,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1317,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1317,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1318,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1318,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1318,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1318,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1319,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1319,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1319,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1319,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1320,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1320,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1320,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1320,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1321,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1321,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1321,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1321,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1335,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1336,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1340,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1340,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1341,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1341,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1342,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1342,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1343,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1343,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1345,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1345,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1357,21): error C2440: '=': cannot convert from 'const char [10]' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1357,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1375,11): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const char [10]' to 'LPCWSTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1375,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(4433,1): message : see declaration of 'CreateWindowExW'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1375,11): message : while trying to match the argument list '(int, const char [10], const char [11], unsigned long, int, int, int, int, int, int, int, int)'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1507,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1508,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1570,28): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint64_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1570,28): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1576,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1576,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1586,6): error C2374: 'once': redefinition; multiple initialization
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\driver.hpp(15,6): message : see declaration of 'once'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1644,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1787,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1792,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1801,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1819,59): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(68,7): message : see declaration of 'Vector3'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1820,62): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\win_utils.h(68,7): message : see declaration of 'Vector3'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1830,24): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1830,24): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1831,32): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'float'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(1831,32): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2132,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2132,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2132,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2132,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2133,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2133,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2133,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2133,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2134,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2134,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2134,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2134,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2135,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2135,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2135,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2135,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2136,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2136,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2136,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2136,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2137,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2137,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2137,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2137,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2138,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2138,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2138,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2138,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2139,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2139,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2139,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2139,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2140,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2140,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2140,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2140,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2141,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2141,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2141,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2141,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2142,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2142,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2142,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2142,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2143,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2143,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2143,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2143,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2144,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2144,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2144,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2144,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2179,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2179,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2179,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2179,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2180,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2180,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2180,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2180,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2181,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2181,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2181,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2181,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2182,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2182,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2182,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2182,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2183,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2183,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2183,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2183,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2184,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2184,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2184,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2184,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2185,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2185,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2185,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2185,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2186,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2186,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2186,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2186,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2187,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2187,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2187,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2187,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2188,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2188,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2188,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2188,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2189,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2189,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2189,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2189,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2190,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2190,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2190,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2190,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2191,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2191,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2191,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2191,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2226,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2226,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2226,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2226,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2227,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2227,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2227,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2227,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2228,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2228,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2228,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2228,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2229,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2229,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2229,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2229,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2230,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2230,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2230,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2230,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2231,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2231,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2231,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2231,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2232,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2232,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2232,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2232,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2233,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2233,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2233,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2233,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2234,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2234,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2234,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2234,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2235,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2235,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2235,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2235,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2236,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2236,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2236,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2236,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2237,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2237,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2237,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2237,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2238,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2238,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2238,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2238,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2273,85): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2273,61): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2273,141): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2273,117): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2277,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2277,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2277,147): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2344,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2356,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2360,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2364,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2368,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2372,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2376,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2380,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2384,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2388,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2395,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2396,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2400,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2404,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2408,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2412,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2416,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2420,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2424,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2428,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2432,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2436,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2440,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2444,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2448,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2452,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2456,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2460,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2464,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2468,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2472,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2476,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2480,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2484,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2488,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2492,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2496,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2500,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2504,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2508,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2512,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2516,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2520,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2524,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2528,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2532,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2536,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2540,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2544,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2548,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2552,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2556,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2562,56): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2562,56): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2563,25): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2563,25): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2564,25): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2564,25): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2565,45): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2565,45): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2566,77): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2566,77): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2567,68): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2567,68): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2568,17): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uintptr_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2568,17): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2569,65): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2569,65): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2570,32): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2570,32): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2571,69): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2571,69): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2572,63): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2572,63): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2573,70): error C2568: '=': unable to resolve function overload
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2573,70): message : could be 'T read<uint64_t>(const uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2574,23): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uintptr_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2574,23): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2575,19): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2575,19): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2576,20): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2576,20): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2577,16): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'char'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2577,16): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2578,14): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'char'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2578,14): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2580,22): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2580,22): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2581,24): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2581,24): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2582,19): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD_PTR'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2582,19): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2595,46): error C2296: '+': not valid as left operand has type 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2601,55): error C2296: '+': not valid as left operand has type 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2601,24): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uintptr_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2601,24): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2612,59): error C2296: '+': not valid as left operand has type 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2612,29): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint64_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2612,29): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2613,16): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'int'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2613,16): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2614,58): error C2296: '+': not valid as left operand has type 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2614,28): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'DWORD64'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2614,28): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2615,19): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'int'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2615,19): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2627,21): error C2446: '==': no conversion from 'DWORD_PTR' to 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2627,24): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2629,20): error C2446: '==': no conversion from 'DWORD_PTR' to 'T (__cdecl *)(uintptr_t)'
+          with
+          [
+              T=uint64_t
+          ]
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2629,23): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2634,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2641,27): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uint64_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2641,27): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2642,27): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'uintptr_t'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2642,27): message : Context does not allow for disambiguation of overloaded function
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2659,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\godfather.h(209,3): error C3861: 'write': identifier not found
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2675,39): error C2440: 'initializing': cannot convert from 'T (__cdecl *)(const uintptr_t)' to 'FZiplinePawnState'
+D:\PC FILES\FILES\Sky Cheat Paid (FN)\Fn\main.cpp(2675,84): fatal  error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
